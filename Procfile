@@ -1,1 +1,1 @@
-web: gunicorn EnergyProductionapp: server
+web: gunicorn energyproductionapp: server
