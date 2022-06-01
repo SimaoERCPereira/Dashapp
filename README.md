@@ -10,3 +10,5 @@ we can conclude what are the countries with a bigger role in the green planet an
 still way behind the curve in that sense. To get the data we use the website “OurWorldInData” and 
 we merged data from two different repositories(one for renewable energy and the other for not 
 renewable energy).
+![Mapa mundo](https://user-images.githubusercontent.com/90764365/171454461-38a2ad9e-1966-4db5-b350-a422b2df2dba.png)
+![Bar plot](https://user-images.githubusercontent.com/90764365/171454472-3d70926d-fe62-4f8d-b3fc-8e4c48f90c1d.png)
